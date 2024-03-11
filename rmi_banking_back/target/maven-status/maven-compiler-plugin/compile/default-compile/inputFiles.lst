@@ -1,0 +1,12 @@
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Models/Client.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Controllers/MainController.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Models/Operation.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Business/ClientBusiness.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Models/Account.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/DataAccessLayer/AccountDao.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/DataAccessLayer/ClientDAO.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Business/AccountBusiness.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/DataAccessLayer/OperationDAO.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/DataAccessLayer/Database.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Business/IClient.java
+/home/is2m/Documents/vscode/rmi_banking_back/src/main/java/estm/dsic/Business/IAccount.java

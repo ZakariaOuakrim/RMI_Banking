@@ -1,0 +1,1 @@
+start jlink-image\bin\javaw -jar modules\rmi_banking_front-1.0.jar

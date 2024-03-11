@@ -1,0 +1,5 @@
+estm/dsic/Business/IAccount.class
+estm/dsic/Models/Operation.class
+estm/dsic/Models/Account.class
+estm/dsic/Business/IClient.class
+estm/dsic/Models/Client.class
